@@ -25,5 +25,9 @@
   "dependencies": {
     "node-pngcrush": "0.3.7",
     "node-pngquant-native": "1.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mz-team/mz-optimizer-png-compress"
   }
 }
