@@ -1,6 +1,6 @@
 {
   "name": "mz-optimizer-png-compress",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A optimizer for mz-fis to compress png by using node-pngcrush and node-pngquant-native.",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,8 @@
   "author": "ccfnever",
   "license": "ISC",
   "dependencies": {
-    "node-pngcrush": "0.3.7",
-    "node-pngquant-native": "1.0.4"
+    "node-pngcrush": "1.0.0",
+    "node-pngquant-native": "2.0.1"
   },
   "repository": {
     "type": "git",
